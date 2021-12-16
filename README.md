@@ -6,3 +6,4 @@
 - Pedro Lucas da Silva Bastos
 - Ana Luiza Toffano
 - Pedro Henrique de Oliveira Gomes Mugrabi Figueiredo 
+- Lucas Oliveira dias
